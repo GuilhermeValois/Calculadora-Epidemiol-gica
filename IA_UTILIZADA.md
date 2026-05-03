@@ -137,10 +137,11 @@ Os resultados obtidos são satisfatórios para fins educacionais, contribuindo p
 
 ---
 
-### 💬 Menasgem Final
+### 💬 Mensagem Final
 
 Produza um Artigo Científico baseado nesse prompt, usano as informações dadas e complementando o que foi pedido para explicar e citar sem que o conteúdo fique muito resumido.
 
+---
 
 ## 💻 Prompt utilizado para geração do código (ChatGPT)
 
